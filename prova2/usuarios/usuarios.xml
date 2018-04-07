@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<usuarios><usuario><nome>Gabriel</nome><data>2001-03-13</data><email>biel@email.com</email><cpf>12345678901</cpf><sexo>M</sexo><usuario>biel</usuario><password>123456</password></usuario><usuario><nome>Vinicius Fuentes</nome><data>2001-09-09</data><email>vini@email.com</email><cpf>12345678901</cpf><sexo>M</sexo><usuario>vini</usuario><password>1234567</password></usuario></usuarios>
